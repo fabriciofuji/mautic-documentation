@@ -147,7 +147,7 @@ By default, Mautic is configured to use MaxMind's free GeoLite2 IP lookup databa
 
 ![config menu](config-menu.png)
 
-On the System Settings tab, scroll down to find the IP lookup service option and click the "Fetch IP Lookup Data Store."
+On the System Settings tab, scroll down to find the IP lookup service option and click the "Fetch IP Lookup Data Store." If using MaxMind service, please remember to get your [MaxMind license](https://docs.mautic.org/en/setup/maxmind-license).
 
 ![get maxmind](get-maxmind.png)
 
